@@ -1,0 +1,22 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+    display: block;}
+body {
+    font-family:Georgia, Times, sans-serif;
+    line-height: 1.4em;
+    margin: 0px;
+    background-image: url("halloweenbackground.jpeg");
+
+}
+.wrapper{
+    background-color: white;
+        width: 940px;
+    margin: 0 auto;
+    height: 500px;
+    padding: 10px 20px 0px;
+
+}
+.body{
+    padding-bottom: 70px;
+}
+#pumpkin{
+margin: 0 auto} 
